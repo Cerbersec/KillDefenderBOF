@@ -8,6 +8,7 @@
 //      AUTHOR: https://twitter.com/cerbersec
 //
 //      COMPILE WITH: gcc -o KillDefender.o -c KillDefender.c -masm=intel
+//      COMPILE WITH KALI: x86_64-w64-mingw32-gcc -o KillDefender.o -c KillDefender.c -masm=intel
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #include <windows.h>
