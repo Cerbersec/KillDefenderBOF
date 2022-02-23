@@ -1,7 +1,7 @@
 #pragma once
 
 #include <windows.h>
-#include <TlHelp32.h>
+#include <tlhelp32.h>
 
 #define NT_SUCCESS(Status) ((NTSTATUS)(Status) >= 0)
 #define STATUS_SUCCESS 0x00000000
